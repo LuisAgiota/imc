@@ -1,3 +1,31 @@
-h1 {
-    color: red;
+html {
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+  }
+
+html {font-size: 20px; 
+        font-family: 'Amatic SC', cursive;}
+
+body {
+    text-align: center;
+    width: 600px;
+    margin: 2em auto;
+    background-color: #708090;
+    padding: 0 100px 100px 100pSx;
+    border: 5px solid rgb(255, 255, 255);
+  }
+
+button{
+    font-family: 'Amatic SC', cursive;
+    color:white ;
+    background-color:black;
+    padding: 10px 10px 10px 10px;
+}
+
+
+input{
+    padding: 10px;
+}
+
+.centro{
+    align-items:center;
 }
